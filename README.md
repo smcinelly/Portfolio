@@ -14,4 +14,5 @@ Contact Me Links
 * Materialize 1.0.0
 
 # Sources
-This site was inspired by Ali Spittel's portfolio site. Found at http://third-match.surge.sh/
+* This site was inspired by Ali Spittel's portfolio site. Found at http://third-match.surge.sh/
+* Background image is from https://pixabay.com/users/rawpixel-4283981/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3428667
