@@ -17,6 +17,14 @@
     }
 }
 
+.brand-logo{
+    margin-left:30px;
+}
+
+.links{
+    margin-right:30px; 
+}
+
 .main-container{
     position: absolute;
     top:55%;
@@ -24,6 +32,14 @@
     transform:translate(-50%, -50%);
 }
 
-.main-container a {
-    position:
+.giphy {
+    display:block;
+    text-align:center;
+}
+
+.image {
+    display:block;
+    margin: 0 auto;
+    margin-bottom:20px;
+    text-align:center;
 }
