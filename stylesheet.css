@@ -1,6 +1,4 @@
-
-
-
+/* ------ Background image (laptop and coffee) */
 .background-image {
     background-image: url(assets/mac-and-coffee.jpg);
     background-size:cover;
@@ -14,29 +12,44 @@
 @media screen and (max-width: 670px){
     .background-image {
         min-height:750px;
+        max-width:100%;
     }
 }
 
+/* Navbar name (Stephanie McInelly) */
 .brand-logo{
     margin-left:30px;
 }
 
+@media screen and (max-width: 670px) {
+    .brand-logo {
+        min-width:80%;
+        
+    }
+}
+ /* Navbar links */
 .links{
     margin-right:30px; 
 }
-
+/* Home page text (Hi, I'm Stephanie...*/
 .main-container{
     position: absolute;
-    top:55%;
+    top:45%;
     left:50%;
     transform:translate(-50%, -50%);
 }
 
+@media screen and (max-width:670px){
+    .main-container {
+        top:35%;
+    }
+}
+ /* Giphy for coming soon page */
 .giphy {
     display:block;
     text-align:center;
 }
-
+/* Self portrait on about page */
 .image {
     display:block;
     margin: 0 auto;
