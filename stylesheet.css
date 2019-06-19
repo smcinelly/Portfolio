@@ -56,3 +56,8 @@
     margin-bottom:20px;
     text-align:center;
 }
+
+/* Hover effect on links in cards (Portfolio page) */
+.card-action .brown-text:hover{
+    padding:5px;
+}
