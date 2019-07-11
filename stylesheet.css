@@ -49,6 +49,11 @@
     display:block;
     text-align:center;
 }
+
+/* Update soon page */
+.main-container h4 {
+    padding-top:50px; 
+}
 /* Self portrait on about page */
 .image {
     display:block;
