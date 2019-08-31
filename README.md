@@ -1,11 +1,13 @@
 # Portfolio
 Hi! Welcome to Stephanie's portfolio site. This was designed to highlight samples of Stephanie McInelly's best works. 
+https://smcinelly.github.io/Portfolio/
 
 # Table of Contents
-Home
-About
-Portfolio
-Contact Me Links 
+* Home
+* About
+* Portfolio
+* Contact Me 
+* Links 
 
 # Technologies 
 * HTML 5
